@@ -1,0 +1,14 @@
+@media only screen and (max-width:400px)
+{
+    #banner-pic-logo
+    {
+        /* display: none; */
+        width: 100%;
+    }
+    /* #headerlogo-pic
+    {
+        width: 100%;
+        display: none;
+    } */
+    
+}
